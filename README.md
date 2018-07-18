@@ -31,6 +31,5 @@ _Chinese National Physics Foundation_ ---- 2014/9 to 2017/6
       
 ## Selected Research/Coursework Projects     
 **_Research on the Black Hole Paradox and the AMPS Paradox_**     
-
 This research aimed to unfold the mathematical framework of the Black Hole Paradox and the AMPS Paradox and study some deep connection among Thermodynamics, General Relativity and Quantum Theory, with some mathematical methods like the quantization of gravitation field, Bogoliubov Transformation and Temperature Green Function. This research won me the Excellent Graduate Thesis of Sun Yat-Sen University.    
      
