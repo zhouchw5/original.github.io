@@ -33,3 +33,11 @@ _Chinese National Physics Foundation_ ---- 2014/9 to 2017/6
 **_Research on the Black Hole Paradox and the AMPS Paradox_**     
 This research aimed to unfold the mathematical framework of the Black Hole Paradox and the AMPS Paradox and study some deep connection among Thermodynamics, General Relativity and Quantum Theory, with some mathematical methods like the quantization of gravitation field, Bogoliubov Transformation and Temperature Green Function. This research won me the Excellent Graduate Thesis of Sun Yat-Sen University.    
      
+**_Fractal Brownian Motion Model to Simulate the Stock Index Time Series_**     
+This research was to develop a mathematical model to simulate the stock index time series and predict the corresponding transition probability.    
+
+**_The Multi-objective Nonlinear Programming on The Hot Bath Model (MCM coompetition)_**      
+This programme was to develop a model of the temperature control system that described the temperature of the bathtub water in space and time. Then determined the best strategy to achieve the multiple objectives: temperature-preservation and water-saving.    
+- Applied the stability theory of differential equations to obtain the stable temperatures and the corresponding flow rates of hot water, then considered the flow rate function as one of the objective functions.      
+- Developed the space-time distribution model of temperature and determined the temperature deviation as another objective function related to the stable temperatures, subjected to the constraint interval.    
+
