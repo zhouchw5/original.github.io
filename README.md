@@ -8,8 +8,11 @@
 
 
 ## Education    
-**London School of Economics and Political Science**2018.9~2019.9      
-- MSc in Operations Research & Analytics
-**Sun Yat-Sen University** 2013.8~2017.6    
+**London School of Economics and Political Science** <right>2018.9~2019.9</right>    
+- MSc in Operations Research & Analytics     
+
+**Sun Yat-Sen University** 2013.8~2017.6
+
+    
 - BS in Opto-Electronics Information  Science and Engineering , School of Physics
 - International Division of Theoretical Physics 
