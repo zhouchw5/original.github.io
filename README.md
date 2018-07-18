@@ -8,7 +8,7 @@
 
 
 ## Education    
-**London School of Economics and Political Science** 
+**London School of Economics and Political Science**
 <right>2018.9~2019.9</right>   
 _MSc in Operations Research & Analytics_         
 
