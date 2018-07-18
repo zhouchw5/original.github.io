@@ -8,7 +8,8 @@
 
 
 ## Education    
-**London School of Economics and Political Science** <span style="float:right;">2018.9~2019.9</span>   
+**London School of Economics and Political Science** 
+<right>2018.9~2019.9</right>   
 - MSc in Operations Research & Analytics     
 
 **Sun Yat-Sen University** 2013.8~2017.6  
