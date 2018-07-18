@@ -38,7 +38,8 @@ _To achieve the best strategy for demand fulfillment, my main job can be divided
 - Monitor the items' supply and demand, feedback those in low or lack of inventory      
 - Order purchasing plan for those items in low inventory, and make plans to consume the overstock items      
 - Determine the priority levels of contracts and optimize the resource allocation, with some quantitative methods like the (0-1) programming model      
-
+       
+--------------------
 
 
 
