@@ -24,8 +24,7 @@ _Chinese National Physics Foundation_ ---- 2014/9 to 2017/6
  2. China National Scholarship, 2015-2016(2%)      
  3. Outstanding Graduate of Sun Yat-Sen University(2%)     
  4. First Prize of Outstanding Scholarship, 2015-2016    
- 5. Excellent Graduate Thesis of Sun Yat-Sen University (6%)       
- 6. Excellent Graduate of Sun Yat-Sen University     
+ 5. Excellent Graduate Thesis of Sun Yat-Sen University (6%)            
        
  -------------------       
     
