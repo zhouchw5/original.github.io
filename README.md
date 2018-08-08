@@ -10,8 +10,9 @@
 ## Education    
 ### London School of Economics and Political Science    
 
-_MSc in Operations Research & Analytics_----2018.9~2019.9         
+_MSc in Operations Research & Analytics_----2018.9~        
 
+   
 ### Sun Yat-Sen University  
 
 
