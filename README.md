@@ -48,7 +48,7 @@ _Medium and long term resource planning of Huawei IT products (including Server,
 This research aimed to unfold the mathematical framework of the Black Hole Paradox and the AMPS Paradox and study some deep connection among Thermodynamics, General Relativity and Quantum Theory, with some mathematical methods like the quantization of gravitation field, Bogoliubov Transformation and Temperature Green Function. This research won me the Excellent Graduate Thesis of Sun Yat-Sen University.    
      
 **_Fractal Brownian Motion Model to Simulate the Stock Index Time Series_**     
-This research was to develop a mathematical model to simulate the stock index time series and predict the corresponding transition probability.    
+This research was to develop a mathematical model to simulate the stock index time series and predict the corresponding transition probability, Hurst exponent Shanghai Composite Index     
 
 **_The Multi-objective Nonlinear Programming on The Hot Bath Model (MCM coompetition)_**      
 This programme was to develop a model of the temperature control system that described the temperature of the bathtub water in space and time. Then determined the best strategy to achieve the multiple objectives: temperature-preservation and water-saving.    
