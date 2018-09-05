@@ -33,8 +33,8 @@ _Chinese National Physics Foundation_ ---- 2014/9 to 2017/6
 ### HUWEI TECHNOLOGIES CO., LTD.     
 **Supply Chain Management Engineer_Global Master Planner of IT Products**    
 _Medium and long term resource planning of Huawei IT products (including Server, Storage and other series IT solutions); Three main working modules: **Demand/Supply Mathch, Logistics Optimization** and **Global Allocations Management** (based on operations research, data analysis and projects information)_         
-- Developed an iteration model computing the supply allocation for Tencent typical projects, by programming in Python Spyder and building up a visualization and interaction interface of data report in Tableau Desktop, awarded as **the Junior Data Analyst** in Huawei           
-- Indenpendently manage the global planning in supply chain of Huawei HDD (Hard Disk Drive, a vital component of Server and Storage), defusing the industrial supply shortage of HDD in the first and second quarter in 2018, contributing to IT products line 
+- **Modeling and Programming**: Developed an iteration model computing the supply allocation for Tencent typical projects, by programming in Python Spyder and building up a visualization and interaction interface of data report in Tableau Desktop, awarded as **the Junior Data Analyst** in Huawei           
+- Indenpendently manage the global planning in supply chain of series IT products, defusing the industrial supply shortage of some vital component products in the first and second quarter in 2018, contributing to IT products line 
 - Analyze the historical outbound information and predict the future cargo quantity, by using the linear regression model, moving average method, exponential smoothing, or optimal allocation model selectively, then make the procurement plan      
 - Monitor the items' supply and demand, feedback those in low or lack of inventory      
 - Order purchasing plan for those items in low inventory, and make plans to consume the overstock items      
