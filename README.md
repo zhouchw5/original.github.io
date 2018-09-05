@@ -59,5 +59,9 @@ This programme was to develop a model of the temperature control system that des
                    
 ## Other Activities
 - Project leading member of Top 10 Singers Competition in Sun Yat-Sen University             
-- 
+- Programme manager of Career Development Association in Sun Yat-Sen University          
+- Took charge of the airport pick-up job for Prof. John Iliopoulos, the winner of Dirac Medal         
+- Attendee for the summer forum of Astrophysics and Cosmology in Peking University        
+- Basketball player in School of Physics in Sun Yat-Sen University           
+
 
