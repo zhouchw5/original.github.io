@@ -8,9 +8,12 @@ Zhou Mr.Chuwei
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;  _Brief Timeline_
 
 
-**Email**:  zhouchw5@mail2.sysu.edu.cn            
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; zhouchuw5@outlook.com    
-**Tel**: &nbsp; &nbsp; &nbsp;+86 13246896488
+**Email**:            
+zhouchw5@mail2.sysu.edu.cn            
+zhouchuw5@outlook.com             
+
+**Tel**:         
++86 13246896488
 
 
 -------------------
