@@ -5,12 +5,12 @@ Considering some privacy issues, I determine to transfer my resume here to my lo
 Yours,          
 Zhou Mr.Chuwei             
 ![resume](https://github.com/zhouchw5/original.github.io/blob/master/resume.png)                
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;_@Zhou Mr.Chuwei_
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;_@Zhou Mr.Chuwei_
 
 
 **Email**:  zhouchw5@mail2.sysu.edu.cn            
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; zhouchuw5@outlook.com    
-**Tel**: +86 13246896488
+**Tel**: &nbsp; &nbsp; &nbsp;+86 13246896488
 
 
 -------------------
