@@ -4,7 +4,7 @@ Considering some privacy issues, I determine to transfer my resume here to my lo
 
 
 **Email**:  zhouchw5@mail2.sysu.edu.cn;            
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; zhouchuw5@outlook.com    
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; zhouchuw5@outlook.com    
 **Tel**: +86 13246896488
 
 
