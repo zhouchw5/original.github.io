@@ -16,7 +16,7 @@ or get access to my [Linkedin](https://www.linkedin.com/in/ClarenceZhou/).
           
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="zh_CN" data-type="horizontal" data-theme="dark" data-vanity="clarencezhou"><a class="LI-simple-link" href='https://cn.linkedin.com/in/clarencezhou?trk=profile-badge'>Clarence Zhou</a></div>                          
-You can also click the blue button in the left lower-left quarter of the profile above for switching to the Linkedin pages.           
+You can also click the blue button in the lower-left quarter of the profile above for switching to the Linkedin pages.           
             
             
 
