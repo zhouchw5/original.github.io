@@ -9,7 +9,7 @@ I would send my updated resume to my ideal organization and now I think I have e
 If you are one of my colleagues in that company for the coming future,          
 and coincidentally interested in my profile, with my great honor,            
 after reading my resume you are still curious about more information,                
-you can either keep further reading in my website www.zhouchuwei.com,               
+you can either keep further reading in my website [www.zhouchuwei.com](https://www.zhouchuwei.com/),                 
 or get access to my [Linkedin](https://www.linkedin.com/in/ClarenceZhou/).                     
 For those who would like to have a connection with me via Linkedin.                                                
 Only when I start my online application for employment would I reopen the 'exhibition' of my resumne here. But any valuable communication via **email** or mobile phone is welcomed, with my resume or any other information in your curiosity. _**Another recommended option is that you can click the blue button below with "查看职业档案" to connect with my brief profile.**_          
