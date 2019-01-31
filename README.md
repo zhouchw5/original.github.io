@@ -1,6 +1,8 @@
 # Chuwei Zhou                 
 
-Considering some privacy issues, I determine to transfer my resume here to my local repository.                
+Considering some privacy issues, I determine to transfer my resume here to my local repository.            
+                  
+                  
 I would send my updated resume to my ideal organization and now I think I have encountered such a company.         
 If you are one of my colleagues in the company for the coming future,          
 and coincidentally interested in my profile, with my great honor,            
